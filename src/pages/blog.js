@@ -13,8 +13,8 @@ class BlogIndex extends React.Component {
 
     return (
       <Layout location={this.props.location}>
-        <Seo title="Blog" />
-        <Hero title="Blog" />
+        <Seo title="Articles" />
+        <Hero title="Articles" />
         <ArticlePreview posts={posts} />
       </Layout>
     )
