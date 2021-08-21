@@ -6,7 +6,7 @@ import * as styles from './navigation.module.css'
 const Navigation = () => (
   <nav role="navigation" className={styles.container} aria-label="Main">
     <Link to="/" className={styles.logoLink}>
-      <img className={styles.logo} src={"https://i.imgur.com/4Iw1b78.png?1"}/>
+      <img className={styles.logo} src={"https://i.imgur.com/4Iw1b78.png?1"} alt={"Logo"}/>
       <span className={styles.navigationItem}>Project Bawaajigan</span>
     </Link>
     <ul className={styles.navigation}>
