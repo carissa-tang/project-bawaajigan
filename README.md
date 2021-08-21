@@ -2,12 +2,6 @@
 
 Powered by [Gatsby](http://gatsbyjs.com/) and [Contentful](https://www.contentful.com).
 
-## Features
-
-- Simple content model and structure. Easy to adjust to your needs.
-- Use the [synchronization feature](https://www.contentful.com/developers/docs/references/content-delivery-api/#/reference/synchronization) of our [Delivery API](https://www.contentful.com/developers/docs/references/content-delivery-api/).
-- Responsive/adaptive images via [gatsby-plugin-image](https://www.gatsbyjs.org/packages/gatsby-plugin-image/) and our [Images API](https://www.contentful.com/developers/docs/references/content-delivery-api/#/reference/synchronization/initial-synchronization-of-entries-of-a-specific-content-type).
-
 ## Getting started
 
 See our [official Contentful getting started guide](https://www.contentful.com/developers/docs/tutorials/general/get-started/).
