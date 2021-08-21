@@ -4,20 +4,22 @@ Powered by [Gatsby](http://gatsbyjs.com/) and [Contentful](https://www.contentfu
 
 ## Getting started
 
-See our [official Contentful getting started guide](https://www.contentful.com/developers/docs/tutorials/general/get-started/).
+### Prerequisites
+* Node.js (v12.13 or newer)
+* Git
+* Gatsby command line interface (CLI) (v3 or newer)
+* Visual Studio Code
 
 ### Get the source code and install dependencies.
 
 ```
-$ git clone https://github.com/contentful/starter-gatsby-blog.git
-$ npm install
+git clone https://github.com/carissa-tang/project-bawaajigan.git
+cd project-bawaajigan
+npm install
 ```
 
-Or use the [Gatsby CLI](https://www.npmjs.com/package/gatsby-cli).
-
-```
-$ gatsby new contentful-starter-blog https://github.com/contentful/starter-gatsby-blog/
-```
+If you run into errors, try 
+https://stackoverflow.com/questions/66363572/vips-vips8-file-not-found-include-vips-vips8-in-ionic-cordova-in-ios .
 
 ### Set up of the needed content model and create a configuration file
 
