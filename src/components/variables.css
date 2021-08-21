@@ -52,7 +52,9 @@
 
   /* tokens */
   /* colors */
-  --primary: #4a90e2;
+  --primary: #e23738;
+  --secondary: #ffd73e;
+  --tertiary: #25271b;
   --background: var(--white);
   --border: var(--black-fade-5);
 
