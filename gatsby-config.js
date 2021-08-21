@@ -36,8 +36,8 @@ if (!spaceId || !accessToken) {
 
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Contentful Starter",
-    description: "Official Contentful Gatsby Starter",
+    title: "Project Bawaajigan",
+    description: "Official Project Bawaajigan Website",
   },
   pathPrefix: "/gatsby-contentful-starter",
   plugins: [
